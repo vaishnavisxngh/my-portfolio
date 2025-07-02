@@ -1,0 +1,11 @@
+Model Information:
+* title:	Woman at the window by Dali
+* source:	https://sketchfab.com/3d-models/woman-at-the-window-by-dali-11039ba1a12b40cbb7c3b3a355f49501
+* author:	betocarrillo (https://sketchfab.com/betocarrillo)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Woman at the window by Dali" (https://sketchfab.com/3d-models/woman-at-the-window-by-dali-11039ba1a12b40cbb7c3b3a355f49501) by betocarrillo (https://sketchfab.com/betocarrillo) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
