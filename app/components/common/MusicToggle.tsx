@@ -47,7 +47,7 @@ const MusicToggle = () => {
         style={{
           position: "fixed",
           top: isMobile ? "2.5rem" : "4rem",
-          right: "1.5rem",
+          left: "1.5rem",
           opacity: 0,
           zIndex: 2,
         }}
@@ -55,7 +55,7 @@ const MusicToggle = () => {
         <button
           onClick={toggleMusic}
           className="px-4 py-2 rounded-md bg-black/60 text-white hover:bg-black/80 transition shadow-md shadow-black/20 ">
-          {isPlaying ? "Pause Music" : "Play Music"}
+          {isPlaying ? "Pause" : "Play"}
         </button>
       </div>
     </>
