@@ -54,8 +54,8 @@ const MusicToggle = () => {
       >
         <button
           onClick={toggleMusic}
-          className="px-4 py-2 rounded-md bg-black/60 text-white hover:bg-black/80 transition shadow-md shadow-black/20 ">
-          {isPlaying ? "Pause" : "Play"}
+          className="px-4 py-2  text-white font-semibold rounded-mg bg-black hover:bg-black/80 transition ">
+        {isPlaying ? "Unmute" : "Mute" }
         </button>
       </div>
     </>

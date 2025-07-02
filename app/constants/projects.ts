@@ -1,22 +1,10 @@
 import { Project } from "../types/projects";
 export const PROJECTS: Project[] = [
   {
-    title: 'Angular Gulp Seed',
-    date: 'Aug 2016',
-    subtext: 'A basic starter project to initialize project using AngularJS and Gulp. It follows MVC architecture and uses standard app structure.',
-    url: 'https://github.com/mohitvirli/angular-gulp-seed',
-  },
-  {
-    title: 'State.js',
-    date: 'Jul 2020',
-    subtext: 'A lightweight library for turning JS objects into observables, providing a convenient API for state management and manipulation.',
-    url: 'https://github.com/mohitvirli/state.js',
-  },
-  {
-    title: 'change-host',
-    date: 'Jul 2020',
-    subtext: 'A CLI tool to manage /etc/hosts entries for local development. It enables quick and easy mapping of IPs to URLs with a single command.',
-    url: 'https://github.com/mohitvirli/change-host',
+    title: 'Zentry Frontend',
+    date: 'May 2025',
+    subtext: 'Frontend for Zentry, a web application that showcases the fun of the game and 3D flow and elements . Fun UI',
+    url: 'https://vaishnavisxngh.github.io/awards/',
   },
   {
     title: 'Vaccine Slots Discord Bot',
